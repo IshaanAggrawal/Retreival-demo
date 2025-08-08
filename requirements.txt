@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+requests
+python-docx
+pdfminer.six
+beautifulsoup4
+scikit-learn
